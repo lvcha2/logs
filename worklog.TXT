@@ -1,0 +1,21 @@
+mongostat.exe -u "TAPUser" -p "TAPPassw0rd" >c:\abc.txt
+mongo 9.123.103.17/productstore02 -u "TAPUser" -p "TAPPassw0rd" 
+
+du -h --max-depth=1
+ftp://ftpuser:XHiUTSVNL2iTin3OY8kC@9.112.248.91/FTPFS/ftp_root/NGT/ngt.runtime_bpm.fvt.test_8570.zip
+ftp://ftp:ftp@9.123.103.102/NGT/apache-ant-1.8.4.zip
+ftp://ftp:ftp@9.123.103.102/NGT/ibm-java-sdk-8.0-2.10-linux-x86_64.zip
+
+{"execution":{"$ref":"Execution","$id":ObjectId("5ad8365309a801dfc4f4eaca")}}
+{"_id":{$ne:ObjectId("5ad9a6392ac717c4dc93c2dd")}}
+db.IfixTestResult.remove({"_id":{$ne:ObjectId("5ad9a6392ac717c4dc93c2dd")}},false)
+
+8560CF2 			329571
+855 					898780
+8570CF201706	455094  826374
+8600CF201803	496542
+8600CF201712  212100
+8502  642904
+
+
+cdlad\cnweisunbj  Passw5rd 
